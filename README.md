@@ -59,7 +59,7 @@
             --card-bg: #1E293B;
         }
 
-        [data-theme="dark"][data-palette="palette3"] {
+        [theme="dark"][data-palette="palette3"] {
             --primary-color: #A78BFA;
             --secondary-color: #C084FC;
             --accent-color: #7C3AED;
